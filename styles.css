@@ -1,0 +1,37 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 2.49%,rgba(255,255,255,1.00) 34.51%,rgba(255,255,255,1.00) 62.38%,rgba(0,0,0,1.00) 96.37%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 2.49%,rgba(255,255,255,1.00) 34.51%,rgba(255,255,255,1.00) 62.38%,rgba(0,0,0,1.00) 96.37%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 2.49%,rgba(255,255,255,1.00) 34.51%,rgba(255,255,255,1.00) 62.38%,rgba(0,0,0,1.00) 96.37%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 2.49%,rgba(255,255,255,1.00) 34.51%,rgba(255,255,255,1.00) 62.38%,rgba(0,0,0,1.00) 96.37%);
+    -webkit-box-shadow: inset 0px 0px;
+    box-shadow: inset 0px 0px;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(90,90,90,1.00) 95.03%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(90,90,90,1.00) 95.03%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(90,90,90,1.00) 95.03%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0.00%,rgba(90,90,90,1.00) 95.03%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FCBA22;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #000000;
+    color: #FBAE00;
+}
+#headingOne1 .mb-0 a {
+    background-color: #000000;
+}
+#headingTwo1 .mb-0 .collapsed {
+    background-color: #000000;
+}
+#headingThree1 .mb-0 .collapsed {
+    background-color: #000000;
+}
+footer .row .col-lg-6 {
+    color: #F80206;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #F10307;
+}
